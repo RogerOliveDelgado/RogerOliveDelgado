@@ -3,8 +3,11 @@
 ```js
 const RogerOliveDelgado = {
   pronouns: "he" | "him",
+  technologies: 'web',
+  passions: ['web development'],
   code: [JavaScript, Python, PHP, HTML, CSS],
   }
+  ```
 <!--
 
 **RogerOliveDelgado/RogerOliveDelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
